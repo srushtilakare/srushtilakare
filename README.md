@@ -1,5 +1,5 @@
 # Hi there! 👋 
-I'm Srushti Vijay Lakare
+# I'm Srushti Vijay Lakare
 
 🎓 **Computer Engineering Student | Aspiring Software Engineer | Tech Enthusiast**
 💡 Passionate about **problem-solving, AI, and building impactful projects**.
