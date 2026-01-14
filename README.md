@@ -16,7 +16,7 @@ I focus on project-based learning and continuously work on improving my DSA, sys
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-- Python, Java, C++, C
+- Python, C++, C
 
 ### AI / Machine Learning
 - Machine Learning, NLP, Deep Learning (CNNs)
@@ -24,7 +24,7 @@ I focus on project-based learning and continuously work on improving my DSA, sys
 - Feature Engineering, Model Evaluation
 
 ### Web Development
-- React.js, HTML, CSS, JavaScript
+- React.js, HTML, CSS
 - Flask, Node.js, Express.js
 - REST APIs, Model Integration
 
@@ -35,19 +35,20 @@ I focus on project-based learning and continuously work on improving my DSA, sys
 - Git & GitHub
 - VS Code
 - Streamlit
-- XAMPP, Apache Tomcat
+- XAMPP
+- Postman
 
 ---
 
 ## 🔭 Currently Working On
-- **Deepfake Detection System** using CNNs for image-based classification  
+- **AI Based Crop Advisory Platform** using CNN, Gemini API etc  
 - **Fake Product Review Detection System** using NLP, ML & Ensemble Models  
 - **AI-driven Web Applications** with Flask backend and React frontend  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Data Structures & Algorithms  
+- Data Structures & Algorithms  
 - Deep Learning architectures and optimization  
 - System design basics  
 - Backend scalability and ML model deployment  
@@ -57,8 +58,9 @@ I focus on project-based learning and continuously work on improving my DSA, sys
 ## 🏆 Achievements & Certifications
 - Infosys Springboard **Pragati: Path to Future Program (Cohort 2)**  
 - Certified in **Artificial Intelligence, Deep Learning & NLP**  
-- Completed multiple certifications in **Python, Java, and DSA**  
-- Built and deployed multiple AI & full stack projects  
+- Completed NPTEL Certifications in Cloud Coputing, IIoT, Project Management
+- Built and deployed multiple AI & full stack projects
+- Publiched Research Paper **Enhancing Truct and Privacy in Edge and Cloud Computing through Blockchain Technology**
 
 ---
 
@@ -67,18 +69,14 @@ I focus on project-based learning and continuously work on improving my DSA, sys
 - **Fake Product Review Detection System**  
   NLP-based system using TF-IDF, Naive Bayes, k-NN, and Ensemble Learning with Flask + React integration.
 
-- **Deepfake Detection using CNN**  
-  Deep learning model to detect manipulated images using convolutional neural networks.
-
-- **AI-Driven Crop Disease Prediction System (AgriSense AI)**  
-  MERN stack web application for crop disease detection and management using image input.
+- **AI-Driven Crop Advisory Platform (FarmAI)**  
+  MERN stack web application for crop disease detection, cop advisory, crop calender, weather detection, market advisory and other crop management.
 
 - **System-Level Backup Utility**  
   Streamlit-based utility supporting scheduling, compression, and automated backups.
 
-- **FP-Tree Based Frequent Pattern Mining**  
-  Data mining project implementing FP-tree construction and frequent itemset generation.
-
+- **Ratings & Reviews System**  
+  
 ---
 
 ## 📊 GitHub Stats
