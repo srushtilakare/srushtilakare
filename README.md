@@ -93,7 +93,7 @@ Secure review system with authentication and user-level restrictions.
 
 ---
 
-## 📊 GitHub Activity (Native & Reliable)
+## 📊 GitHub Activity  
 
 ✔ Active public repositories  
 ✔ Consistent project-based development  
