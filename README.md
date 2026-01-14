@@ -324,16 +324,7 @@ graph LR
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 Quote I Live By
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
+ 
 
 <div align="center">
 
