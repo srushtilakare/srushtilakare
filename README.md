@@ -1,8 +1,12 @@
-# Hi, I’m Srushti Lakare 👋
+# Hi, I’m Srushti Lakare 👋  
 
 🎓 Computer Engineering Undergraduate (2026)  
 💻 Aspiring Software Engineer | AI & Full Stack Developer  
-🚀 Passionate about building real-world, end-to-end tech solutions
+🚀 Passionate about building real-world, end-to-end tech solutions  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SrushtiLakare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
@@ -13,106 +17,103 @@ I focus on project-based learning and continuously work on improving my DSA, sys
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Visual)
 
-### Programming Languages
-- Python, C++, C
+### 💻 Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
 
-### AI / Machine Learning
-- Machine Learning, NLP, Deep Learning (CNNs)
-- TensorFlow, Scikit-learn
-- Feature Engineering, Model Evaluation
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+<p>
+  Machine Learning · NLP · Deep Learning (CNNs) · Feature Engineering
+</p>
 
-### Web Development
-- React.js, HTML, CSS
-- Flask, Node.js, Express.js
-- REST APIs, Model Integration
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,flask,nodejs,express" />
+</p>
 
-### Databases
-- MySQL, MongoDB
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Streamlit
-- XAMPP
-- Postman
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+<p>
+  Streamlit · XAMPP
+</p>
 
 ---
 
 ## 🔭 Currently Working On
-- **AI Based Crop Advisory Platform** using CNN, Gemini API etc  
-- **Fake Product Review Detection System** using NLP, ML & Ensemble Models  
-- **AI-driven Web Applications** with Flask backend and React frontend  
+- 🌾 **AI-Based Crop Advisory Platform (FarmAI)** using CNN, Gemini API  
+- 🛡️ **Fake Product Review Detection System** using NLP & Ensemble ML  
+- 🌐 **AI-driven Web Applications** with Flask backend and React frontend  
 
 ---
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms  
-- Deep Learning architectures and optimization  
-- System design basics  
-- Backend scalability and ML model deployment  
+- Deep Learning architectures & optimization  
+- System design fundamentals  
+- Backend scalability & ML model deployment  
 
 ---
 
 ## 🏆 Achievements & Certifications
 - Infosys Springboard **Pragati: Path to Future Program (Cohort 2)**  
 - Certified in **Artificial Intelligence, Deep Learning & NLP**  
-- Completed NPTEL Certifications in Cloud Coputing, IIoT, Project Management
-- Built and deployed multiple AI & full stack projects
-- Publiched Research Paper **Enhancing Truct and Privacy in Edge and Cloud Computing through Blockchain Technology**
+- NPTEL Certifications: Cloud Computing, IIoT, Project Management  
+- Published research paper:  
+  **“Enhancing Trust and Privacy in Edge and Cloud Computing through Blockchain Technology”**  
+- Built and deployed multiple AI & full stack projects  
 
 ---
 
 ## 📌 Featured Projects
 
-- **Fake Product Review Detection System**  
-  NLP-based system using TF-IDF, Naive Bayes, k-NN, and Ensemble Learning with Flask + React integration.
+🔹 **Fake Product Review Detection System**  
+NLP-based system using TF-IDF, Naive Bayes, k-NN & Ensemble Learning with Flask + React.
 
-- **AI-Driven Crop Advisory Platform (FarmAI)**  
-  MERN stack web application for crop disease detection, cop advisory, crop calender, weather detection, market advisory and other crop management.
+🔹 **AI-Driven Crop Advisory Platform (FarmAI)**  
+MERN stack platform for crop disease detection, crop advisory, weather insights & market trends.
 
-- **System-Level Backup Utility**  
-  Streamlit-based utility supporting scheduling, compression, and automated backups.
+🔹 **System-Level Backup Utility**  
+Streamlit-based utility with scheduling, compression & automated backups.
 
-- **Ratings & Reviews System**  
-  
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SrushtiLakare&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SrushtiLakare&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiLakare&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-    height="160"
-  />
-</p>
-
+🔹 **Ratings & Reviews System**  
+Secure review system with authentication and user-level restrictions.
 
 ---
 
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/srushtilakare  
-- 📧 Email: srushti1924@gmail.com  
+## 📊 GitHub Activity (Native & Reliable)
+
+✔ Active public repositories  
+✔ Consistent project-based development  
+✔ Strong focus on **AI + Full Stack systems**  
+✔ Clean commits and structured repositories  
+
+> *Contribution graph below reflects continuous learning and hands-on development.*
+
+---
+
+## 🤝 Let’s Connect
+<p>
+  <a href="https://www.linkedin.com/in/srushtilakare">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:srushti1924@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
 ⭐ *Always eager to learn, build, and collaborate on impactful software projects.*
-
